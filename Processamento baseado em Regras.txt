@@ -1,0 +1,11 @@
+Linguagem é um fenomeno humano 
+então antes das formalização não acontecia um formalismo matematico 
+
+A PALAVRA é unidade basica da nalise da frase 
+
+cada palavra -é atribuida uma categoria morfologica sintatica 
+
+CATEGORIA CONHECIDO ABREVIAÇÃO
+Determinante | Artigo | D
+Nome | Substantivo | N
+Verbo Transitivo | -- | VT
